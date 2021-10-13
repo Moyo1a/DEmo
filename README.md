@@ -1,2 +1,0 @@
-# DEmo
-For creating users
