@@ -14,12 +14,12 @@
         <header class="headerArea">
             <div class="imgB">
                 <img src="../images/WSNlogo.jpg" alt="">
-                
+
             </div>
-          <p>WELCOME! enjoy the best internet</p>
-           
+            <p>WELCOME! enjoy the best internet</p>
+
             <div>
-               
+
                 <a href="./table.html">View all Users</a>
             </div>
         </header>
@@ -32,10 +32,12 @@
                     <input class="firstName" type="text" placeholder="firstName">
                     <input class="lastName" type="text" placeholder="lastName">
                     <input class="email" type="text" placeholder="emailAddress">
-                    <input class="" type="text" placeholder="macAddress">
+                    <input class="" type="text" placeholder="macAddrress">
                     <input class="" type="text" placeholder="hotSpotAdreess">
                     <input class="" type="text" placeholder="lastUsedIp">
-                    <input class="" type="text" placeholder="dueDate">
+                    <input class="" type="date" placeholder="date">
+                    
+
 
 
                     <button>Create User</button>
@@ -45,7 +47,7 @@
 
         <footer>
             <div class="footerPlace">
-Enjoy!!
+
             </div>
         </footer>
         </main>
