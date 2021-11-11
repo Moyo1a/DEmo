@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>All Users</title>
-    <link rel="stylesheet" href="../css/table.css">
+    <link rel="stylesheet" href="../DEmo/css/table.css">
     <link rel="stylesheet"
         href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
 </head>
@@ -18,7 +18,7 @@
             Users
         </header>
         <div class="addArea">
-            <a href="../html/index.html">Add New Users</a>
+            <a href="../DEmo/html/index.html">Add New Users</a>
 
             </div>
     
@@ -32,7 +32,7 @@
         <span>CSV</span>
         <span>PDF</span>
 
-    <input type="search" placeholder="Search">
+    <input type="search" placeholder="Serach">
 
 
 </div>
@@ -59,6 +59,6 @@
     
     </div>
 </body>
-<script src="../js/table.js"></script>
+<script src="../DEmo/js/table.js"></script>
 
 </html>
