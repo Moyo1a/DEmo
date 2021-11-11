@@ -32,7 +32,7 @@
         <span>CSV</span>
         <span>PDF</span>
 
-    <input type="search" placeholder="Serach">
+    <input type="search" placeholder="Search">
 
 
 </div>
