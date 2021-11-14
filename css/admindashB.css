@@ -267,11 +267,14 @@ overflow-x: auto;
   width: 70px;
 }
 #nav-toggle:checked + .sidebar .sidebar-brand,
-#nav-toggle:checked + .sidebar li  {
+#nav-toggle:checked + .sidebar li {
   padding-left: 1rem;
 }
-#nav-toggle:checked + .sidebar .sidebar-brand,
-#nav-toggle:checked + .sidebar li {
+#nav-toggle:checked + .sidebar li a {
+  padding-left: 0rem; 
+}
+#nav-toggle:checked + .sidebar .sidebar-brand h2 span:last-child,
+#nav-toggle:checked + .sidebar li a span {
   padding-left: 1rem;
 }
 
